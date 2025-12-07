@@ -12,4 +12,5 @@
 - Pushed project to GitHub for review.
 
 ## Notes
-This submission includes all source code and logs of attempts. The project builds and runs, but endpoint routing requires further debugging.
+This submission includes all source code and logs of attempts.  
+The project builds and runs, but endpoint routing requires further debugging.
