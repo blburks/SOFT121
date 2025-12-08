@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bradl\\Documents\\FP-Csharp\\FinalCSharpProject\\FinalCSharpProject.csproj": {}
+    "C:\\Users\\bradl\\Documents\\FP-CSharp\\FinalCSharpProject\\FinalCSharpProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bradl\\Documents\\FP-Csharp\\FinalCSharpProject\\FinalCSharpProject.csproj": {
+    "C:\\Users\\bradl\\Documents\\FP-CSharp\\FinalCSharpProject\\FinalCSharpProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bradl\\Documents\\FP-Csharp\\FinalCSharpProject\\FinalCSharpProject.csproj",
+        "projectUniqueName": "C:\\Users\\bradl\\Documents\\FP-CSharp\\FinalCSharpProject\\FinalCSharpProject.csproj",
         "projectName": "FinalCSharpProject",
-        "projectPath": "C:\\Users\\bradl\\Documents\\FP-Csharp\\FinalCSharpProject\\FinalCSharpProject.csproj",
+        "projectPath": "C:\\Users\\bradl\\Documents\\FP-CSharp\\FinalCSharpProject\\FinalCSharpProject.csproj",
         "packagesPath": "C:\\Users\\bradl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bradl\\Documents\\FP-Csharp\\FinalCSharpProject\\obj\\",
+        "outputPath": "C:\\Users\\bradl\\Documents\\FP-CSharp\\FinalCSharpProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bradl\\AppData\\Roaming\\NuGet\\NuGet.Config"

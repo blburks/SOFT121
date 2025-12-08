@@ -30,3 +30,7 @@ C:\Users\bradl\Documents\FP-Csharp\FinalCSharpProject\obj\Debug\net9.0\refint\Fi
 C:\Users\bradl\Documents\FP-Csharp\FinalCSharpProject\obj\Debug\net9.0\FinalCSharpProject.pdb
 C:\Users\bradl\Documents\FP-Csharp\FinalCSharpProject\obj\Debug\net9.0\FinalCSharpProject.genruntimeconfig.cache
 C:\Users\bradl\Documents\FP-Csharp\FinalCSharpProject\obj\Debug\net9.0\ref\FinalCSharpProject.dll
+C:\Users\bradl\Documents\FP-Csharp\FinalCSharpProject\bin\Debug\net9.0\frontend\package-lock.json
+C:\Users\bradl\Documents\FP-Csharp\FinalCSharpProject\bin\Debug\net9.0\frontend\package.json
+C:\Users\bradl\Documents\FP-Csharp\FinalCSharpProject\bin\Debug\net9.0\frontend\public\manifest.json
+C:\Users\bradl\Documents\FP-Csharp\FinalCSharpProject\obj\Debug\net9.0\FinalCSharpProject.sourcelink.json
